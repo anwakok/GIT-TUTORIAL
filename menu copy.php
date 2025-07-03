@@ -1,6 +1,6 @@
 <?php
      echo "home";
-     echo "product";
-     echo "kok";
+     echo "produckokt";
+     echo "kok2";
      
 ?>
